@@ -4,6 +4,9 @@
   <h3 align="center">Full Stack Engineer 🚀 | MSc Student in AI 🤖</h3>
 
   <p align="center">
+    <a href="https://ogzhnblgnn.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="https://www.linkedin.com/in/ogzhnblgnn/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -19,6 +22,7 @@
 
 I'm a **Software Engineer** passionate about building scalable microservices and intelligent web applications. Currently pursuing my **Master's Degree (MSc)** in Computer Engineering with a focus on **Artificial Intelligence & Machine Learning**.
 
+- 🌐 **Check out my Portfolio:** [ogzhnblgnn.github.io/portfolio](https://ogzhnblgnn.github.io/portfolio/)
 - 🔭 I’m currently working on **AI-integrated Web Architectures**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Native Patterns**
 - 💡 I specialize in **Java (Spring Boot)** and **React ecosystems**
