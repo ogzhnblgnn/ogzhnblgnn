@@ -4,9 +4,6 @@
   <h3 align="center">Full Stack Engineer 🚀 | MSc Student in AI 🤖</h3>
 
   <p align="center">
-    <a href="https://ogzhnblgnn.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-    </a>
     <a href="https://www.linkedin.com/in/ogzhnblgnn/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
