@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** passionate about building scalable microservices and intelligent web applications. Currently pursuing my **Master's Degree (MSc)** in Computer Engineering with a focus on **Artificial Intelligence & Machine Learning**.
+I'm a **Software Engineer** passionate about building scalable microservices and intelligent web applications. Currently pursuing my **Master's Degree (MSc)** in Computer Engineering with a focus on **Artificial Intelligence, Machine Learning, Computer Vision, Pattern Recognition and Data Mining**.
 
 - 🔭 I’m currently working on **AI-integrated Web Architectures**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Native Patterns**
